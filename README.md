@@ -1,5 +1,5 @@
-# SAR-CLIP-SAR-CoCa-SAR-GPT-and-SAR-TEXT
-This is the official repository of the paper "SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning".
+# SAR-TEXT Dataset
+This is the official repository of the paper "SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning"， including several VLFMs models(SAR-CLIP, SAR-CoCa, SAR-GPT) and a SAR image-text paired dataset (SAR-TEXT).
 
 This project aims to bridge the gap between SAR imagery and semantic understanding using vision-language models. We build a large-scale SAR-Text dataset, design an automatic captioning framework (SAR-Narrator), and develop tailored models for key vision-language tasks. Everything—including code, models, and data—will be open-sourced to support the community.
 
@@ -8,7 +8,7 @@ This project aims to bridge the gap between SAR imagery and semantic understandi
 <img width="970" height="928" alt="image" src="https://github.com/user-attachments/assets/b6ac5cad-6c46-4613-97eb-2ea5637e5b8e" />
 
 
-The following items will be completed before August 1, 2025 (Beijing Time):
+The following items will be completed before August 10, 2025 (Beijing Time):
 
 1.Models and training code.
 
